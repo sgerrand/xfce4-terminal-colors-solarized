@@ -18,7 +18,7 @@ Downloads
 
 If you have come across this colorscheme via the [Vim-only repository] on github, or the [vim.org script] page see the link above to the Solarized homepage or visit the main [Solarized repository].
 
-The [Vim-only repository] is kept in sync with the main [Solarized repository] and is for installation convenience only, for instance).  Issues, bug reports, changelogs are centralized at the main [Solarized repository].
+The [Xfce4-Terminal-only repository] is kept in sync with the main [Solarized repository] and is for installation convenience only, for instance).  Issues, bug reports, changelogs are centralized at the main [Solarized repository].
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
