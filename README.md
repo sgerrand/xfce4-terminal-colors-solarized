@@ -27,7 +27,14 @@ The [Xfce4-Terminal-only repository] is kept in sync with the main [Solarized re
 Installation
 ------------
 
-Move `terminalrc` to your `~/.config/Terminal/` directory.
+Move `terminalrc` to your `~/.config/Terminal/` directory. The dark or the light themes are available. To 
+install the dark version please do the following:
 
         $ cd xfce4-terminal-colors-solarized
-        $ mv terminalrc ~/.config/Terminal/
+        $ mv dark/terminalrc ~/.config/Terminal/
+
+To install the light version go with:
+
+        $ cd xfce4-terminal-colors-solarized
+        $ mv light/terminalrc ~/.config/Terminal/
+
