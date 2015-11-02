@@ -18,10 +18,13 @@ Screenshots
 Downloads
 ---------
 
-If you have come across this colorscheme via the [Vim-only
-repository] on github, or the [vim.org script] page see the link
-above to the Solarized homepage or visit the main [Solarized
-repository].
+If you have come across this colorscheme via the 
+[Vim-only repository](https://github.com/altercation/vim-colors-solarized) 
+on github, or the 
+[vim.org script](http://www.vim.org/scripts/script.php?script_id=3520)
+page see the link
+above to the Solarized homepage or visit the main 
+[Solarized repository].
 
 The [Xfce4-Terminal-only repository] is kept in sync with the
 main [Solarized repository] and is for installation convenience
