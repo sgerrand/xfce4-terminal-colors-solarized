@@ -57,7 +57,3 @@ To install the light version:
         $ cp light/terminalrc ~/.config/Terminal/terminalrc
         OR
         $ cp light/terminalrc ~/.config/xfce4/terminal/terminalrc
-
-
-
-
