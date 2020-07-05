@@ -1,7 +1,7 @@
-Solarized colour scheme for the Xfce4 Terminal
+Solarized colour scheme for the Xfce4 terminal
 =============================
 
-Developed by Sasha Gerrand <github.com@sgerrand.com>
+Developed by Sasha Gerrand xfce4-terminal-colors-solarized@sgerrand.com
 
 Visit the [Solarized homepage]
 ------------------------------
@@ -22,6 +22,8 @@ The [Xfce4-Terminal-only repository] is kept in sync with the main [Solarized re
 
 [Solarized homepage]:   http://ethanschoonover.com/solarized
 [Solarized repository]: https://github.com/altercation/solarized
+[Vim-only repository]:  https://github.com/altercation/vim-colors-solarized
+[vim.org script]:        http://vim.org/script
 [Xfce4-Terminal-only repository]:  https://github.com/sgerrand/xfce4-terminal-colors-solarized
 
 Installation
